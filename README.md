@@ -1,2 +1,2 @@
-# java-docker
+# javaproject
 This is a hello world in Java.
